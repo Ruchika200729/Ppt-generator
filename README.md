@@ -1,4 +1,3 @@
-# PPT-Generator
 
 # 📊 NavyaAI Deck – Auto-Generate a Presentation from Text
 
